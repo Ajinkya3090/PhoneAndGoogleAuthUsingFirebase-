@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>806689150034-i0hfn16836nfhi34jto8d5q183etl409.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.806689150034-i0hfn16836nfhi34jto8d5q183etl409</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAS0V7bJfM-IZrkwsK8Uit1xTIhwxTUltk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>806689150034</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.bipp.inc.FirebaseUsingPhone</string>
+	<key>PROJECT_ID</key>
+	<string>phoneauth-ace14</string>
+	<key>STORAGE_BUCKET</key>
+	<string>phoneauth-ace14.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:806689150034:ios:5e594e00361c0952357b8b</string>
+</dict>
+</plist>
